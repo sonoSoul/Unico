@@ -6,4 +6,4 @@ Sono [**Unico**](https://discord.com/users/929746010274684978/),
 
 🖥 Programmo in **Python**, in **Node.js** e in **Java** e so **Visual Basic .NET**, **CSS**, **C#**, **HTML**, qualche cosetta in **JS** e anche in **UNIX things**
 
-🌐 [**Il mio sito (Presto disponibile)**]
+🌐 **Il mio sito (Presto disponibile)**
